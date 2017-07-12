@@ -1,0 +1,180 @@
+body {
+	margin:0;
+	padding:0;
+	//background-image:url(../img/main_bg.gif);
+	background-repeat:repeat-x;
+	font-family:"µ¸¿ò";
+	font-size:12px;
+	font-weight:normal;
+	color:#333333;
+}
+
+}
+
+a:hover, a:visited, a:link, a:active {
+	font-family:"µ¸¿ò";
+	font-size:12px;
+	font-weight:normal;
+	color:#555555;
+}
+
+ul, li {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+.linespace_10 {
+	height:10px;
+}
+
+
+#wrap {
+	width:1000px;
+	margin-right: auto;
+	margin-left: auto;
+	min-height:600px;
+}
+
+#header {
+	height:62px;
+	margin-top:10px;
+	margin-left:90px;
+
+}
+
+#logo {
+	float:left;
+	width:200px;
+	height:50px;  
+
+}
+
+#menu {
+	width:100%;
+	margin-top:50px;
+	border:solid 1px #cccccc;  
+}
+
+.menus {
+    border:solid 1px #cccccc;  
+	float:left;
+}
+
+#content {
+	overflow:hidden;
+	margin-top:56px;
+	width:998px;
+	min-height: 600px;
+}
+
+#content #image {
+	float:left;
+	margin-left:110px;
+	width:100%;
+	margin-top:100px;
+}
+
+
+ /* login */
+
+#login_form {
+	float:right;
+	margin-top:0px;
+	width:353px;
+	height:50px;
+	text-align:center;
+	border:solid 1px #cccccc;  
+
+}
+#login2 #id_pw_title {
+	float:left;
+	width:80px;
+	height:50px;
+	text-align:right;
+}
+
+#login2 #id_pw_title li{
+	padding-bottom:5px;
+}
+
+#login2 #id_pw_input {
+	float:left;
+	height:50px;
+	margin-right:10px;
+}
+
+#login2 #id_pw_input li{
+	padding-bottom:7px;
+}
+#login2 #id_pw_input input.login_input {
+	margin-right:10px;
+	width:120px;
+	height:16px;
+	border:solid 1px #cccccc;
+}
+
+#login2 #login_button {
+	float:right;
+	margin-right:80px;
+}
+
+#login2 #join_button {
+	float:right;
+	margin-right:30px;
+	margin-top:-37px;
+	}
+/* notify */
+#nlist_content {
+	background-color:#ccff00;
+}
+#nlist_item {
+	height:18px;
+	margin-top:2px;
+	padding:6px;  
+	border-bottom:solid 1px #eeeeee;
+	font:bold;
+}
+
+#nlist_item #nlist_item1{
+	float:left;
+	width:40px;
+	text-align:center;
+}
+
+#nlist_item #nlist_item2{
+	float:left;
+	width:560px;
+}
+
+#nlist_item #nlist_item3{
+	float:left;
+	width:65px;
+	text-align:center;
+}
+
+#nlist_item #nlist_item4{
+	float:left;
+	width:80px;
+	text-align:center;
+}
+
+#nlist_item #nlist_item5{
+	float:left;
+	width:40px;
+	text-align:center;
+}
+
+/* footer */
+#footer {
+		background-color:#000000;
+		}
+
+#footer p {
+		margin-top: 10px;
+		margin-left: 350px;
+		padding: 15px 0 10px 0;
+		line-height: 18px;
+		color: #ffffff;
+		}
+

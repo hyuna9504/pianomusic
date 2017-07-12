@@ -1,0 +1,28 @@
+#content #col2 {
+	width:836px;
+	min-height:558px;
+	float:left;
+	margin-left:100px;
+}
+
+#content #col2 #title{
+	margin-left:20px;
+	margin-top:50px;
+	width:96%;  
+	height:30px;  
+	border-bottom:solid 1px #cccccc;
+}
+
+#content #col2 #form_join{
+	margin-left:20px;
+	width:96%;
+	height:300px;
+	border-bottom:solid 1px #cccccc;
+	padding:5px 0 5px 10px;
+	
+
+#content #col2 #button {
+	text-align:center;
+	margin-top:20px;
+	margin-right:20px;
+}
